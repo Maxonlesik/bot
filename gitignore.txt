@@ -1,0 +1,16 @@
+info_bot.txt
+guide_bot1.py
+main_netology.py
+
+### Text template
+*.doc
+*.docx
+*.log
+*.msg
+*.pages
+*.rtf
+*.txt
+*.wpd
+*.wps
+
+
